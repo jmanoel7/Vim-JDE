@@ -28,7 +28,8 @@ let g:iab_previewer.previewLinesFun=''
 
 func! s:VjdeIabbrAdd(name,desc) "{{{2
 	let dsc = substitute(a:desc,'^\s*\(.*\)\s*$','\1','')
-	if ( dsc[-1:-1]=='') 
+	if ( dsc[-1:-1]=='
+') 
 		let dsc = dsc[0:-2]
 	endif
 	call add(s:templates,{'name':a:name,'desc': dsc })

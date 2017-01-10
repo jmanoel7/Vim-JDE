@@ -5,7 +5,7 @@ body
 \/*
  * %{classname}.java 1.00 %{Time.now}
  *
- * 版权信息
+ * 掳忙脠篓脨脜脧垄
  */
 endt
 
@@ -26,12 +26,12 @@ package %{package};
 
 
 \/**
- * 类注释
+ * 脌脿脳垄脢脥
  * @version 1.00 
  * @author 
  */
 public class %{classname} {
-	/* 类实现描述 */
+	/* 脌脿脢碌脧脰脙猫脢枚 */
 }
 %ClassFooter%
 

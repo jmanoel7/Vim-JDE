@@ -2,7 +2,7 @@
 " File:        project.vim
 " Author:      Aric Blumer (Aric.Blumer at marconi.com)
 " Last Change: Thu 17 Oct 2002 02:39:48 PM EDT
-" Version:     1.3         ©2002
+" Version:     1.3         Â©2002
 "=============================================================================
 " See documentation in accompanying help file
 
